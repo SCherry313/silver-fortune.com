@@ -1,0 +1,11 @@
+
+/*互联网金融*/
+.onimg .row img{ width: 100%; margin-bottom: 10px;}
+.finance-p{ margin-top: 4%;}
+
+
+/*公益*/
+.finance-h4 h4{ text-align: center; line-height: 1.6;}
+@media (max-width: 640px) {
+	.finance-h4 h4{ text-align: left; line-height: 1.6;}
+}
